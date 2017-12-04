@@ -9,7 +9,9 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 1,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.5.2",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "teamjw.html": {
