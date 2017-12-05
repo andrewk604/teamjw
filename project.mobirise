@@ -11,7 +11,11 @@
     "uniqCompNum": 1,
     "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/52e285483ea9a3cc3c6b2db04f7e5b7beba161cd-full-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "teamjw.html": {
